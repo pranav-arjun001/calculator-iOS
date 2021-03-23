@@ -1,6 +1,4 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
-# Calculator Layout Challenge Solution
+# Calculator Layout:
 
 These are the steps to achieve this layout:
 
@@ -30,7 +28,6 @@ Gold Medal: If you want the 0 button to take up as much space as the . and =, yo
 ![Image 7](Documentation/Image7.png)
 
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](Documentation/readme-end-banner.png)
 
